@@ -68,6 +68,9 @@
         }
     });
 
+    // Fade in Up
+    
+
 
     // Skills
     $('.skill').waypoint(function () {
