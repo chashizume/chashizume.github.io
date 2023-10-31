@@ -70,7 +70,8 @@
 
     // Fade in Up
     
-
+    // Initiate the wowjs
+    new WOW().init();
 
     // Skills
     $('.skill').waypoint(function () {
